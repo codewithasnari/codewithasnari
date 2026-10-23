@@ -76,11 +76,23 @@ I'm on a continuous learning journey, currently focusing on:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/asnari-pacalna-848096255">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.codewithasnari.com">
+    <img src="https://img.shields.io/badge/codewithasnari.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:asnaripacalna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/asnari-pacalna/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@codewithasnari">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@codewithasnari">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/codewithasnarii">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:hello@codewithasnari.tech">
+    <img src="https://img.shields.io/badge/Email-hello@codewithasnari.tech-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
 </p>
 
