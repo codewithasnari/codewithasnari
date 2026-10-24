@@ -94,8 +94,8 @@ I'm on a continuous learning journey, currently focusing on:
   <a href="https://x.com/codewithasnari">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:hello@codewithasnari.tech">
-    <img src="https://img.shields.io/badge/Email-hello@codewithasnari.tech-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <a href="mailto:hello@codewithasnari.com">
+    <img src="https://img.shields.io/badge/Email-hello@codewithasnari.com-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
 </p>
 
